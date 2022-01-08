@@ -100,11 +100,11 @@ links = soup.find(class_="some__links").find_all("a")
 #find_a_by_text = soup.find("a", text="Одежда для взрослых")
 #print(find_a_by_text)
 
-find_a_by_text = soup.find("a", text=re.compile("Одежда"))
-print(find_a_by_text)
+#find_a_by_text = soup.find("a", text=re.compile("Одежда"))
+#print(find_a_by_text)
 
-find_all_clothes = soup.find_all(text=re.compile("([Оо]дежда)"))
-print(find_all_clothes)
+#find_all_clothes = soup.find_all(text=re.compile("([Оо]дежда)"))
+#print(find_all_clothes)
 
 
 
