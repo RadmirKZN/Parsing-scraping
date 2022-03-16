@@ -1,0 +1,19 @@
+1647367628428	geckodriver	INFO	Listening on 127.0.0.1:53689
+1647367628930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34873" "-no-remote" "-profile" "/tmp/rust_mozprofile5GNjWi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1647367631545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5GNjWi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34873/devtools/browser/642ea36b-dc58-4404-a198-c905c387b201
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1647367635653	Marionette	INFO	Listening on port 43625
+1647367635784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647367664120	Marionette	INFO	Stopped listening on port 43625
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
