@@ -1,0 +1,658 @@
+{
+    "pageUrl": "/catalog/legkovye/?sort%5Bprice%5D=asc&sort%5Brecommends%5D=desc&form_id=catalog_filter_form&filter_mode=params&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&PAGEN_1=1",
+    "items": [
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 2,
+            "season": "Летние",
+            "price": 3240,
+            "name": "175/70 R14  Tranpath mpZ  Toyo  84H TL",
+            "productId": 104551,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/01b/275_275_1/6x37nyb4fr8lgjfx1l1rgffpac886h0p.jpg",
+            "url": "/catalog/legkovye/17570-r14-tranpath-mpz-toyo-84h-tl18253/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104551",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "18253",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3240.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "386",
+                "vendorCode": "TS01280",
+                "model": "Tranpath mpZ"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1,
+            "season": "Летние",
+            "price": 3240,
+            "name": "195/65 R15  НК-129 КАМА EURO НкШЗ  91H TL",
+            "productId": 90951,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/180/275_275_1/n78q2nxgmlbdmeq8thqkl8ssra7lne3c.jpg",
+            "url": "/catalog/legkovye/19565-r15-nk-129-kama-euro-nkshz-91h-tl99232/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "90951",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "99232",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3240.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "420",
+                "vendorCode": "2110010",
+                "model": "НК-129"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 3580,
+            "name": "175/70 R13  Zodiak 2  TUNGA  86T TL",
+            "productId": 102402,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/683/275_275_1/ulz29bt2z4b5aymykbrignpyvwe24he7.jpg",
+            "url": "/catalog/legkovye/17570-r13-zodiak-2-tunga-86t-tl73339/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "102402",
+                    "AMOUNT": "16",
+                    "PRODUCT_XML_ID": "73339",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3580.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "102402",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "73339",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3580.00",
+                    "PRICE_ID": "11"
+                }
+            ],
+            "initial": {
+                "brandCode": "665",
+                "vendorCode": "742205913",
+                "model": "Zodiak 2"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 4,
+            "season": "Летние",
+            "price": 3690,
+            "name": "165/70 R13  НК-244  НкШЗ  79N TL",
+            "productId": 119955,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/e5f/275_275_1/6iwj72d7usjvof089ofvr9bq3jk9h45f.jpg",
+            "url": "/catalog/legkovye/16570-r13-nk-244-nkshz-79n-tl24019/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "164",
+                    "PRODUCT_ID": "119955",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "24019",
+                    "STORE_XML_ID": "295",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 4д",
+                    "PRICE": "3690.00",
+                    "PRICE_ID": "15"
+                }
+            ],
+            "initial": {
+                "brandCode": "420",
+                "vendorCode": "1110009",
+                "model": "НК-244"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 3800,
+            "name": "175/70 R13  НК-241  НкШЗ  82H TL",
+            "productId": 109453,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/2eb/275_275_1/w3zr2vqjhg1ru7p93ad8w25wy57qhia0.jpg",
+            "url": "/catalog/legkovye/17570-r13-nk-241-nkshz-82h-tl6861/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "109453",
+                    "AMOUNT": "18",
+                    "PRODUCT_XML_ID": "6861",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3800.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "109453",
+                    "AMOUNT": "141",
+                    "PRODUCT_XML_ID": "6861",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3800.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "109453",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "6861",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "3800.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "109453",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "6861",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3800.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "109453",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "6861",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "3800.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "109453",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "6861",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "3800.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "initial": {
+                "brandCode": "420",
+                "vendorCode": "1150016",
+                "model": "НК-241"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 3810,
+            "name": "175/65 R14  Zodiak 2  TUNGA  86T TL",
+            "productId": 102403,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/8dd/275_275_1/om9is1ckdchofqc2lzrytks9hsegin0f.jpg",
+            "url": "/catalog/legkovye/17565-r14-zodiak-2-tunga-86t-tl73340/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "102403",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "73340",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "102403",
+                    "AMOUNT": "38",
+                    "PRODUCT_XML_ID": "73340",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "102403",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "73340",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "102403",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "73340",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "102403",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "73340",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "initial": {
+                "brandCode": "665",
+                "vendorCode": "686201181",
+                "model": "Zodiak 2"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 3820,
+            "name": "185/60 R14  Zodiak 2  TUNGA  86T TL",
+            "productId": 102351,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/764/275_275_1/zy2jnkgp15qx32ue1crxfaujz7ss2gol.jpg",
+            "url": "/catalog/legkovye/18560-r14-zodiak-2-tunga-86t-tl72940/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "102351",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "72940",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "102351",
+                    "AMOUNT": "156",
+                    "PRODUCT_XML_ID": "72940",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "102351",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "72940",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "102351",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "72940",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "102351",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "72940",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "initial": {
+                "brandCode": "665",
+                "vendorCode": "742205934",
+                "model": "Zodiak 2"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 3900,
+            "name": "185/65 R15  Zodiak 2  TUNGA  92T TL",
+            "productId": 102406,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/dc9/275_275_1/jvseij6vsl2bzkkvuixm5ffol729x8d9.jpg",
+            "url": "/catalog/legkovye/18565-r15-zodiak-2-tunga-92t-tl73343/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "102406",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "73343",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3900.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "102406",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "73343",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "3900.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "102406",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "73343",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3900.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "102406",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "73343",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "3900.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "initial": {
+                "brandCode": "665",
+                "vendorCode": "686201306",
+                "model": "Zodiak 2"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 3930,
+            "name": "175/70 R14  НК-132  НкШЗ  84T TL    BREEZE",
+            "productId": 92175,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/ef2/275_275_1/mj268njykh11gpqap73uuvdbe4h4g1a5.jpg",
+            "url": "/catalog/legkovye/17570-r14-nk-132-nkshz-84t-tl-breeze92777/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "initial": {
+                "brandCode": "420",
+                "vendorCode": "1110003",
+                "model": "НК-132"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 1000,
+            "season": "Летние",
+            "price": 3950,
+            "name": "185/60 R14  НК-132  НкШЗ  82H TL    BREEZE",
+            "productId": 92170,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/cf5/275_275_1/30n7uzep01zzutyuq72ayi6nb8x7moqd.jpg",
+            "url": "/catalog/legkovye/18560-r14-nk-132-nkshz-82h-tl-breeze92763/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92170",
+                    "AMOUNT": "20",
+                    "PRODUCT_XML_ID": "92763",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3950.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "initial": {
+                "brandCode": "420",
+                "vendorCode": "1110004",
+                "model": "НК-132"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 9,
+            "season": "Летние",
+            "price": 3980,
+            "name": "155/65 R13  НК-241  НкШЗ  73T TL",
+            "productId": 109452,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/dad/275_275_1/hplw5uq837w91k5jrim9gxdddz2wmf99.jpg",
+            "url": "/catalog/legkovye/15565-r13-nk-241-nkshz-73t-tl6860/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "109452",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "6860",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3980.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "109452",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "6860",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "3980.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "109452",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "6860",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3980.00",
+                    "PRICE_ID": "11"
+                }
+            ],
+            "initial": {
+                "brandCode": "420",
+                "vendorCode": "1150017",
+                "model": "НК-241"
+            },
+            "raznItems": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 4000,
+            "name": "155/65R14 75T SF-688 TL",
+            "productId": 149713,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/b30/275_275_1/24jn6hswm8w4wkcur891xxnum6ki7gp0.png",
+            "url": "/catalog/legkovye/15565r14-75t-sf-688-tl-201s2039/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "149713",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "201S2039",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "4000.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": [],
+            "initial": {
+                "brandCode": "",
+                "vendorCode": "201S2039",
+                "model": "SF-688"
+            },
+            "raznItems": []
+        }
+    ],
+    "navString": "<!-- pagination -->\n<div class=\"pagination\">\n\t\t\t<span class=\"pagination__arrow pagination__arrow_left\">\n\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 10856 7374\">\n\t\t\t<path d=\"M10638 1561l-4346 5232c-1,0 -2,1 -2,1 -62,136 -147,264 -274,364 -431,338 -1060,272 -1407,-149l-4388 -5320c-346,-420 -278,-1034 152,-1372 430,-338 1060,-270 1405,148l3601 4367 3716 -4473c343,-414 967,-479 1392,-147 426,332 493,936 151,1349z\"/>\n\t\t</svg>\n\t\t\t</span>\n\t\n\t\t\t<span class=\"pagination__page pagination__page_active\">1</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?sort%5Bprice%5D=asc&sort%5Brecommends%5D=desc&form_id=catalog_filter_form&filter_mode=params&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&amp;PAGEN_1=2\">2</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?sort%5Bprice%5D=asc&sort%5Brecommends%5D=desc&form_id=catalog_filter_form&filter_mode=params&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&amp;PAGEN_1=3\">3</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?sort%5Bprice%5D=asc&sort%5Brecommends%5D=desc&form_id=catalog_filter_form&filter_mode=params&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&amp;PAGEN_1=4\">4</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?sort%5Bprice%5D=asc&sort%5Brecommends%5D=desc&form_id=catalog_filter_form&filter_mode=params&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&amp;PAGEN_1=5\">5</a>\n\t\t\t\t\t\t\t\t\n\t\t\t<span class=\"pagination__page pagination__page_dots\">...</span>\n\t\n\n\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?sort%5Bprice%5D=asc&sort%5Brecommends%5D=desc&form_id=catalog_filter_form&filter_mode=params&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&amp;PAGEN_1=174\">174</a>\n\t\n\t\t\t<a href=\"/catalog/legkovye/?sort%5Bprice%5D=asc&sort%5Brecommends%5D=desc&form_id=catalog_filter_form&filter_mode=params&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&amp;PAGEN_1=2\" class=\"pagination__arrow pagination__arrow_right\">\n\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 10856 7374\">\n\t\t\t<path d=\"M10638 1561l-4346 5232c-1,0 -2,1 -2,1 -62,136 -147,264 -274,364 -431,338 -1060,272 -1407,-149l-4388 -5320c-346,-420 -278,-1034 152,-1372 430,-338 1060,-270 1405,148l3601 4367 3716 -4473c343,-414 967,-479 1392,-147 426,332 493,936 151,1349z\"/>\n\t\t</svg>\n\t\t\t</a>\n\t</div>\n<!-- /pagination -->\n",
+    "totalCount": "2088",
+    "pageCount": 174
+}
